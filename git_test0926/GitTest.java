@@ -1,5 +1,5 @@
 class GitTest{
     public static void main(String[] args){
-        System.out.println("Gitテスト");
+        System.out.println("GitTest");
     }
 }
